@@ -1,10 +1,13 @@
-# 👋 Hi, I'm Ahmed Suleyman Abdi  
+# 👋ENG-SHEKEYE
 **Software Engineer | Full-Stack Web Developer | Cybersecurity Practitioner**
 
 Software engineer passionate about building secure, scalable, and maintainable applications.  
 I work with Python, Flask, Node.js, SQL, and networking, and I create technical education content under **Saylac Creative** & **CyberBaro**.
 
----
+---S
+
+
+
 
 ## 🔧 Tech Stack & Skills
 - **Languages:** Python, JavaScript, HTML, CSS, SQL  
